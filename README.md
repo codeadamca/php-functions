@@ -1,4 +1,5 @@
-# php-functions
+# A Basic Introduction to JavaScript and Functions
+
 A basic example of using user-defined PHP functions.
 
 This tutorial will review how to use a series of user-defined functions for format data from a PHP array. 
