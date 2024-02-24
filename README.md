@@ -82,13 +82,15 @@ Similar to the arrays, if, and loops examples, your code needs to output the thr
       </html>
       ```
       
-      > Do not edit the code between the stars. 
+> [!Note]
+> Do not edit the code between the stars. 
 
 3. Before the `doctype` tag create two functions. The first will accept one numeric paraemter and format it as a number using the format $.00.00. The second function will convert a rating t a series of visual start using HTML special chacaters. For example 3/5 would display &#9733;&#9733;&#9733;&#9734;&#9734;.
 
 4. In the `body` section add code that will display the three sets of book information using loops and the two functions defined in the previous step.
 
-      > Add each value from the arrays one at a time. Test your PHP after each new line of PHP. 
+> [!Note]
+> Add each value from the arrays one at a time. Test your PHP after each new line of PHP. 
 
 > [More information on PHP for loops](https://www.php.net/manual/en/functions.user-defined.php)
 
